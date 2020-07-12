@@ -16,6 +16,8 @@ Steps:
 ## Conclusion:
 I have tested 3 models: decision tree, random forest, SVC. Random forest had the best score among models. Even without controlling GridSearchCV params, the Random Forest Model had better results in classifying candidate exoplanets.
 
+![classification_report.jpg](Images/classification_report.jpg)
+
 - - -
 
 ## Instructions
